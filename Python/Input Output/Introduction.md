@@ -22,11 +22,27 @@ raw_input ( prompt )
 
 ---
 
-## Q:  ? ⭐
+## 2: Taking multiple inputs from user in Python ? ⭐
 
 **Answer:**
 
-🔗 Source: []()
+In C++/C user can take multiple inputs in one line using scanf, but in Python user can take multiple values or inputs in one line by two methods. 
+
+- Using split() method
+- Using List comprehension
+
+<br>__Using split() method :__
+
+This function helps in getting a multiple inputs from user. It breaks the given input by the specified separator. 
+
+> __If a separator is not provided then any white space is a separator.__
+
+__Syntax :__
+```python
+input().split(separator, maxsplit)
+```
+
+🔗 Source: [GeeksForGeeks](https://www.geeksforgeeks.org/taking-multiple-inputs-from-user-in-python/?ref=rp)
 
 ---
 
