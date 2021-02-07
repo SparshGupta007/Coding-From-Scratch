@@ -10,6 +10,11 @@ print(number)
 print("Type of number", type(number))
 print("Type of name", type(name))
 
+
+####################################################################################
+
+# Output :
+
 '''
 Enter name: Sparsh
 Sparsh
@@ -20,3 +25,5 @@ Type of name <class 'str'>
 
 Process finished with exit code 0
 '''
+
+####################################################################################
