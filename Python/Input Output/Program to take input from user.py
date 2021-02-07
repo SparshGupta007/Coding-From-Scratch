@@ -1,4 +1,5 @@
-## Take input from user
+# Author: SPARSH GUPTA
+# Program to demonstrate an example of how inputs are taken from end user
 
 name = input("Enter name: ")
 print(name)
@@ -27,3 +28,4 @@ Process finished with exit code 0
 '''
 
 ####################################################################################
+
