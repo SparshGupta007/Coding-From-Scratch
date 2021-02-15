@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70fa6f31-69c7-499a-b834-ad9c56c1e507" name="Default Changelist" comment="" />
+    <list default="true" id="70fa6f31-69c7-499a-b834-ad9c56c1e507" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python/Working with Files/Program to copy Microsoft Lockscreen wallpapers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1oAAQephLPb4Qo6KIVlBSmG538e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -36,7 +42,49 @@
       <recent name="D:\GIJoe\Personal\Brainiac\PycharmProjects\Coding-From-Scratch\Python\Input Output" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Program to take multiple inputs from user">
+  <component name="RunManager" selected="Python.Program to copy Microsoft Lockscreen wallpapers (1)">
+    <configuration name="Program to copy Microsoft Lockscreen wallpapers (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coding-From-Scratch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Working with Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Working with Files/Program to copy Microsoft Lockscreen wallpapers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Program to copy Microsoft Lockscreen wallpapers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coding-From-Scratch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Working with Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\GIJoe\Personal\Brainiac\PycharmProjects\Coding-From-Scratch\Python\Working with Files\Program to copy Microsoft Lockscreen wallpapers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Program to take input from user" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Coding-From-Scratch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +129,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Program to copy Microsoft Lockscreen wallpapers (1)" />
+        <item itemvalue="Python.Program to copy Microsoft Lockscreen wallpapers" />
         <item itemvalue="Python.Program to take multiple inputs from user" />
         <item itemvalue="Python.Program to take input from user" />
       </list>
@@ -107,5 +157,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
