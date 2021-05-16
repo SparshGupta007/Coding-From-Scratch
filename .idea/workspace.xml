@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70fa6f31-69c7-499a-b834-ad9c56c1e507" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/Working with Files/Program to copy Microsoft Lockscreen wallpapers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Basics/#1 - Invoking browsers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
